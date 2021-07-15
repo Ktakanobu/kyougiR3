@@ -80,4 +80,3 @@ for i in range(h):
 
 
 root.mainloop() #上記のguiの処理を繰り返す(これがないとウィンドウが表示され続けない)
-#変更の検証
